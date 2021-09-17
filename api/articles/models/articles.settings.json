@@ -43,6 +43,10 @@
     "author": {
       "plugin": "admin",
       "model": "user"
+    },
+    "category": {
+      "via": "articles",
+      "model": "categories"
     }
   }
 }
