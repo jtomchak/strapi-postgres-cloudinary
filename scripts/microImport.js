@@ -18,7 +18,7 @@ async function upload() {
         }),
         {
           headers: {
-            Authorization: "Bearer " + "AAE1253B99AD08C188AE",
+            Authorization: "Bearer " + "<TOKEN_VALUE_HERE>",
             "Content-Type": "multipart/form-data",
           },
         }
